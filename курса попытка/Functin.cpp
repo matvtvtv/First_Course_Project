@@ -2902,5 +2902,5 @@ void allLang()
 
 void Firt() {
 	system("cls");
-	cout << "Hello Git";
+	cout << "Hello Git"<<endl;
 }
