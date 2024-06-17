@@ -2899,3 +2899,8 @@ void allLang()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 }
+
+void Firt() {
+	system("cls");
+	cout << "Hello Git";
+}
